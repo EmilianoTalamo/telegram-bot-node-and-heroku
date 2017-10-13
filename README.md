@@ -21,7 +21,7 @@ Make sure to run `npm install` before commiting your bot to Heroku.
 
 ## Prevent Dyno sleeping
 
-By default, Heroku apps sleep after 1 hour of inactivity. This can be prevented by running the app as a worker dyno instead of a web dyno. This is already setted on the Procfile, but make sure this is also true on your dashboard.
+By default, Heroku apps sleep after 1 hour of inactivity. This can be prevented by running the app as a worker dyno instead of a web dyno. This is already set on the Procfile, but make sure this is also true on your dashboard.
 
 1. Go to your [Heroku dashboard]
 
