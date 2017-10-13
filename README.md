@@ -1,5 +1,5 @@
 # Telegram Bot coded in NodeJS hosted at Heroku
-Sample files to run a Telegram Bot with Heroku without [dino sleeping](https://blog.heroku.com/app_sleeping_on_heroku).
+Sample files to run a Telegram Bot with Heroku without [dyno sleeping](https://blog.heroku.com/app_sleeping_on_heroku).
 
 ## Requirements
 
